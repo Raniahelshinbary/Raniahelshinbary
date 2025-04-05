@@ -38,7 +38,7 @@
   <a href="https://www.behance.net/raniah.eshinbary"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/raniah-elshinbary"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:raniah.elshinbary@example.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.behance.net/raniah.elshinbary"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+  <a href="https://www.behance.net/raniahelshinbary19"><img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
 </p>
 
 ---
